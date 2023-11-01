@@ -1,0 +1,22 @@
+.fondo {
+  background-color: var(--bs-gray-900);
+}
+
+.fondo:hover {
+  background-color: var(--bs-danger);
+}
+
+.foto:hover {
+  filter: invert(30);
+}
+
+.card-img {
+}
+
+.card-img {
+}
+
+.footer-dark:hover {
+  background-color: var(--bs-pink);
+}
+
